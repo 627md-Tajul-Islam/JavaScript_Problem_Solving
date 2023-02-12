@@ -6,10 +6,11 @@ Expect only positive integer inputs.
 */
 
 function AgesInDays(Age){
-    if (Age > 0 ){
-        return Age * 365;
+    if (Age <= 0  || !Number.isInteger(Age)){
+        return "Invalid input: Age must be a positive integer.";
     }
-   
+    return Age * 365;
 }
-var result = AgesInDays(10)
+
+var result = AgesInDays(1)
 console.log(result);
