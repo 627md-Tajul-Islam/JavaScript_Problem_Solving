@@ -6,6 +6,8 @@ Compiler: https://www.programiz.com/javascript/online-compiler/
 
 Problem listing:
 
+<ins>Very Easy</ins> 
+
 1/ Return the Sum of Two Numbers
 
 2/ Convert Minutes into Seconds
