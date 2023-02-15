@@ -39,3 +39,5 @@ Problem listing:
 15/ Sum of Polygon Angles
 
 16/ Basketball Points
+
+17/ Basic Variable Assignment
