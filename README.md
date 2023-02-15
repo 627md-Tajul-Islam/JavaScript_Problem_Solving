@@ -41,3 +41,5 @@ Problem listing:
 16/ Basketball Points
 
 17/ Basic Variable Assignment
+
+18/ Less Than 100?
