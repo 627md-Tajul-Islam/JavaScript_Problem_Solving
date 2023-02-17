@@ -49,3 +49,5 @@ Problem listing:
 20/ Buggy Code (Part 7)
 
 21/ The Farm Problem
+
+22/ Using the && Operator
