@@ -53,3 +53,5 @@ Problem listing:
 22/ Using the && Operator
 
 23/ Are the Numbers Equal?
+
+24/ Football Points
