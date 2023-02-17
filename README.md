@@ -55,3 +55,5 @@ Problem listing:
 23/ Are the Numbers Equal?
 
 24/ Football Points
+
+25/ Convert Hours and Minutes into Seconds
