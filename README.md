@@ -45,3 +45,5 @@ Problem listing:
 18/ Less Than 100?
 
 19/ Buggy Code (Part 5)
+
+20/ Buggy Code (Part 7)
