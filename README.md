@@ -51,3 +51,5 @@ Problem listing:
 21/ The Farm Problem
 
 22/ Using the && Operator
+
+23/ Are the Numbers Equal?
