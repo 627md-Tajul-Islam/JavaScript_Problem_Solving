@@ -57,3 +57,5 @@ Problem listing:
 24/ Football Points
 
 25/ Convert Hours and Minutes into Seconds
+
+26/ Fix the Expression
