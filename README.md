@@ -65,3 +65,5 @@ Problem listing:
 28/ Profitable Gamble
 
 29/ Boolean to String Conversion
+
+30/ Using Arrow Functions
