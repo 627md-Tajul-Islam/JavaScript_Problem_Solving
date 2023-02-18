@@ -61,3 +61,5 @@ Problem listing:
 26/ Fix the Expression
 
 27/ Equality Check
+
+28/ Profitable Gamble
