@@ -15,4 +15,5 @@ Implement a function that returns true if the parameters are equal, and false if
 function equalValues(a, b){
     return a === b;
   }
-  
+var result = equalValues(1,1);
+console.log(result);
