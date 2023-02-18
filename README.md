@@ -59,3 +59,5 @@ Problem listing:
 25/ Convert Hours and Minutes into Seconds
 
 26/ Fix the Expression
+
+27/ Equality Check
