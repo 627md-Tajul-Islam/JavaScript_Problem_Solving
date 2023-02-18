@@ -63,3 +63,5 @@ Problem listing:
 27/ Equality Check
 
 28/ Profitable Gamble
+
+29/ Boolean to String Conversion
